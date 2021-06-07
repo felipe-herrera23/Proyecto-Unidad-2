@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="mx.tecnm.examenunidad2.MainActivity">
+    <item android:id="@+id/agregar_auto" android:title="Publicar auto" app:showAsAction="always" android:icon="@android:drawable/ic_input_add"></item>
+</menu>
